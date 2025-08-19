@@ -1,0 +1,12 @@
+1.Untuk melakukan pembelian Nokos (nomor kosong), silakan kirim pesan dengan format: .buynokos namaAplikasi
+Contoh:
+.buynokos WhatsApp
+
+Harap tidak menyingkat nama aplikasi, misalnya menggunakan wa, fb, ig. Gunakan nama aplikasi lengkap, seperti WhatsApp, Facebook, Instagram, Telegram, Google, dan lainnya.
+
+
+2.Untuk melakukan pengisian saldo atau deposit, silakan kirim pesan dengan format: .deposit nominal
+Contoh:
+.deposit 2000
+
+Harap lakukan pembayaran sesuai batas waktu yang telah ditentukan dan tercantum pada pesan yang Anda terima.
